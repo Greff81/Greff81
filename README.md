@@ -4,8 +4,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermegreff91@gmail.com)
 [![Gmail](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/guilherme-greff-4bb378296)
 
-![snake animation](https://github.com/<seu Greff81>/<seu Greff81>/blob/output/github-contribution-grid-snake2.svg)
-
+![snake gif](https://github.com/Greff81/Greff81/blob/output/github-contribution-grid-snake.gif)
 ###
 
 <div align="left">
